@@ -1,4 +1,5 @@
-/* File: rcrobot_Chillers.ch - Control a robot through your keyboard remotely. */
+/* File: rcLinkbot_Chillers.ch - Control a robot through your keyboard remotely. 
+~Colby Hillers */
 
 #include <linkbot.h>
 CLinkbotI robot;
@@ -37,6 +38,3 @@ while(0 == 0) {
     }
   
 }
-
-
-// Code credited to Colby Hillers
